@@ -198,6 +198,8 @@ python3 -m genome_spot.model_training.make_training_dataset -p 7 \
     --tsv-output ./data/training_data/training_data.tsv
 ```
 
+The training data is available for download under [releases](https://github.com/cultivarium/GenomeSPOT/releases/tag/v1.0.0).
+
 
 ## 3. Create train, test, and cross-validation sets
 
