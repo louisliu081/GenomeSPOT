@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "genomespot": {
+      "type": "stdio",
+      "command": "/home/liujiacheng/miniconda3/envs/genomespot/bin/python",
+      "args": [
+        "/home/liujiacheng/GenomeSPOT/genomespot/genomespot_mcp_server.py"
+      ],
+      "cwd": "/home/liujiacheng/GenomeSPOT/genomespot"
+    }
+  }
+}
